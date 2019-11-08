@@ -1,2 +1,3 @@
-# notes
-dev, life hacks and enlightened secrets
+# README #
+
+My development (and some personal) notes. Feel free to use them.
