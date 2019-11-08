@@ -9,7 +9,7 @@ Tiredness
 Anti-Aging*
 Regenerative Medicine*  
 
-* Bleeding edge stuff considered experimental; caution, common sense, expensive, should enlist doctors help and advice, baselines are a must (more info to follow)
+Bleeding edge stuff considered experimental; caution, common sense, expensive, should enlist doctors help and advice, baselines are a must (more info to follow)
 
 Autism
 
