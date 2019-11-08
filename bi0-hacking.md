@@ -1,5 +1,7 @@
 # Bi0 hacking (lite) 
 
+### Work Product - in-progress (these are notes, you are free to use but I would reference only until my initial research and update are complete.  
+
 Applying the hacker ethic to improve their own bodies with do-it-yourself remedies or devices that follow scientific evidenced based findings. The DIY approach can be in defiance of government/industry unwillingness to bring beneficial products to market.  Reasons for this detrimental behavior are many, all having to do with money, "profit" and personal enrichment of corporate elites and their masters.  
 
 >Not to be confused with "Body Hacking" implants, modifications and invasive tech.  Bi0 hacking (lite) refers to managing one's own biology using a combination of medical, nutritional and electronic techniques. May include the use of nootropics, non-toxic substances, and/or cybernetic devices for recording biometric data.  
