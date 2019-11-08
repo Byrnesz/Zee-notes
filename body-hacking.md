@@ -6,6 +6,10 @@ Apathy
 Dysthymia
 Headaches
 Tiredness
+Anti-Aging*
+Regenerative Medicine*  
+
+* Bleeding edge stuff considered experimental; caution, common sense, expensive, should enlist doctors help and advice, baselines are a must (more info to follow)
 
 Autism
 
@@ -22,17 +26,12 @@ Wjay are side effects?
 
 ## Iron
 
-Good overview of foods: https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/
-
-http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4212392/ shows  iron deficiency was increasingly associated with attention deficit hyperactivity disorder
-
-https://www.ncbi.nlm.nih.gov/pubmed/21830449 iron deficiency may cause headaches
-
-dry skin: https://www.ncbi.nlm.nih.gov/pubmed/26314490
-
-anxiety: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1540447/
-
-hair loss
+Good overview of foods: https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/  
+Study shows iron deficiency was increasingly associated with attention deficit hyperactivity disorder: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4212392/  
+Iron deficiency may cause headaches: https://www.ncbi.nlm.nih.gov/pubmed/21830449   
+Dry skin: https://www.ncbi.nlm.nih.gov/pubmed/26314490  
+Anxiety: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1540447/  
+Hair loss:    
 
 What is it?
 What form can it take?
@@ -45,7 +44,8 @@ Avoid (wait 2 hours): Foods or drink that have a lot of caffeine in them, like c
 How much do I need?
 What are natural forms?
 What should I avoid while taking it?
-Wjay are side effects?
+What are side effects?
+Can lead to constipation, harding of stool
 
 Symptoms
 Feeling very tired is one of the most common symptoms of iron deficiency, affecting more than half of those who are deficient
