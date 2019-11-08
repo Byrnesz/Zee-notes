@@ -32,7 +32,7 @@ dry skin: https://www.ncbi.nlm.nih.gov/pubmed/26314490
 
 anxiety: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1540447/
 
-Hair Loss
+hair loss
 
 What is it?
 What form can it take?
