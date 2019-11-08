@@ -1,20 +1,34 @@
-# Body hacking
+# Bi0 hacking (lite) 
 
-Anhedonia
-Depression
-Apathy
-Dysthymia
-Headaches
-Tiredness
-Anti-Aging*
-Regenerative Medicine*  
+Applying the hacker ethic to improve their own bodies with do-it-yourself remedies or devices that follow scientific evidenced based findings. The DIY approach can be in defiance of government/industry unwillingness to bring beneficial products to market.  Reasons for this detrimental behavior are many, all having to do with money, "profit" and personal enrichment of corporate elites and their masters.  
 
-Bleeding edge stuff considered experimental; caution, common sense, expensive, should enlist doctors help and advice, baselines are a must (more info to follow)
+>Not to be confused with "Body Hacking" implants, modifications and invasive tech.  Bi0 hacking (lite) refers to managing one's own biology using a combination of medical, nutritional and electronic techniques. May include the use of nootropics, non-toxic substances, and/or cybernetic devices for recording biometric data.  
 
-Autism
+>A strong belief in the scientific method is critical. Trials and testing would be similar to clinical studies (my definition of Bi0 hacking lite). Many "Grinders", "Body-hackers", "Biohacking", "Biopunk", Transhumanism and Techno-progressivism" individuals exist. All of us aspire to overcome and enhance real or perceived limitations and delays in medical research. 
 
-## Questions
+**Topics or items with a ^ require far greater need for caution.  Please read my Disclaimer along with source and research links.**  
+ 
+ Advances in science and scientific studies in these areas are rapid and growing fast. It is a prerequisite to read the open source,public and grey publications for relavent studies.  Many other precaustions must be considered and discussed and they are to much to go into in this format and topic.  
 
+
+- Anhedonia
+- Depression
+- Apathy
+- Dysthymia
+- Headaches
+- Tiredness
+- Obesity
+- Diabetes   
+- Anti-Aging^
+- Regenerative Medicine^
+- Cognitive Decline^  
+- ADHD
+- Autism  
+
+Questions cover mostly, what, when and how for the Topic and types of remedies.  A generic protocol is being written and tweaked as we go along.
+
+## Questions  
+  
 What is it?
 What form can it take?
 When should I take it?
@@ -22,56 +36,61 @@ How should I take it?
 How much do I need?
 What are natural forms?
 What should I avoid while taking it?
-Wjay are side effects?
+What are side effects?
 
 ## Iron
 
-Good overview of foods: https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/  
-Study shows iron deficiency was increasingly associated with attention deficit hyperactivity disorder: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4212392/  
-Iron deficiency may cause headaches: https://www.ncbi.nlm.nih.gov/pubmed/21830449   
-Dry skin: https://www.ncbi.nlm.nih.gov/pubmed/26314490  
-Anxiety: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1540447/  
-Hair loss:    
+Good overview of foods: https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/ .  
+Studies show iron deficiency was increasingly associated with attention deficit hyperactivity disorder:  
+Iron deficiency may cause headaches,dry skin:  https://www.ncbi.nlm.nih.gov/pubmed/26314490 .  
+ Anxiety: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1540447/.  
+ Hair Loss:
 
-What is it?
-What form can it take?
-When should I take it?
-1 hour before meal, or two hour after
-*How should I take it?*
-Taking some Vitamin C, like in an orange (juice) might be beneficial
-Avoid (wait 2 hours): Foods or drink that have a lot of caffeine in them, like coffee, black tea, and chocolate. Avoid milk (products) becaus eof calcium. Avoid Calcium or antacid supplments
+What is it?  
+What form can it take?  
+When should I take it?  
+1 hour before meal, or two hour after  
+How should I take it?    
+Taking some Vitamin C, like in an orange (juice) might be beneficial.  
+Avoid (wait 2 hours):   
+Foods or drink that have a lot of caffeine in them, like coffee, black tea, and chocolate.  
+Avoid milk (products) becaus eof calcium.  
+Avoid Calcium or antacid supplments
 
-How much do I need?
-What are natural forms?
-What should I avoid while taking it?
-What are side effects?
-Can lead to constipation, harding of stool
+How much do I need?  
+What are natural forms?  
+What should I avoid while taking it?  
+Wjay are side effects?  
 
-Symptoms
-Feeling very tired is one of the most common symptoms of iron deficiency, affecting more than half of those who are deficient
+Symptoms:  
+Feeling very tired is one of the most common symptoms of iron deficiency, affecting more than half of those who are deficient.  
 
 ## Magnesium
-Aiding sleep and relaxation
-it helps decrease cortisol, the “stress hormone
-help migraine headaches
+Aiding sleep and relaxation it helps decrease cortisol, the “stress hormone
+help migraine headaches.  
+
 If you drink caffeinated beverages such as coffee, tea and soda regularly, your risk for magnesium deficiency is increased.
 
-symptoms of deficiency
-Anxiety?
-Times of hyperactivity?
-Difficulty getting to sleep?
-Difficulty staying asleep?
+Symptoms of deficiency  
+Anxiety?  
+Times of hyperactivity?  
+Difficulty getting to sleep?  
+Difficulty staying asleep?  
 
-Low magnesium is also associated with personality changes and sometimes depression.
-Eye twitches, or involuntary eye movements?
+Low magnesium is also associated with personality changes and sometimes depression.  Eye twitches, or involuntary eye movements?
 
-when best:
-They are unsubtantiated claims that 1,2 hours before sleep best. but it actually doesn't matter
+When best:  
+They are unsubstantiated claims that 1,2 hours before sleep best. but it actually doesn't matter.  
 
-Forms:
-Forms: So if you buy magnesium, you always get a magnesium compound, which is magnesium, which is associated with another substance, such as magnesium. B.  
-
-Magnesium citrate: Magnesium bound to citrate, the salt of citric acid Magnesium carbonate: Magnesium bound to carbonate, the salt of carbonic acid Magnesium glycinate: Magnesium bound to the amino acid Glycine Magnesium orotate: Magnesium bound to orotate, the salt of orotic acid Magnesium sulfate: Magnesium bound to sulfate, the salt sulfuric acid. Magnesium sulfate is also referred to as Epsom salt or Epsom salts. (Not to be confused with Glauber's salt (= sodium sulfate)). Magnesium oxide: Magnesium bound to oxide, formed during the combustion of magnesium Magnesium malate: Magnesium bound to malate, the salt of malic acid
+Forms:   
+So if you buy magnesium, you always get a magnesium compound, which is associated with another substance, such as magnesium. B.  
+Magnesium citrate:  Magnesium bound to citrate, the salt of citric acid.  
+ Magnesium carbonate:  Magnesium bound to carbonate, the salt of carbonic acid.  
+ Magnesium glycinate: Magnesium bound to the amino acid.  
+ Glycine Magnesium orotate: Magnesium bound to orotate, the salt of orotic acid.  
+ Magnesium sulfate: Magnesium bound to sulfate, the salt sulfuric acid. Magnesium sulfate is also referred to as Epsom salt or Epsom salts. (Not to be confused with Glauber's salt (= sodium sulfate)).  
+ Magnesium oxide: Magnesium bound to oxide, formed during the combustion of magnesium.  
+ Magnesium malate: Magnesium bound to malate, the salt of malic acid
 
 Best forms:
 
@@ -226,5 +245,6 @@ m
 ## Food
 
 ### Oatmeal
+
 
 
