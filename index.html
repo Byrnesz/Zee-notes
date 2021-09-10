@@ -146,6 +146,8 @@ Error message and password prompt
 
 <li>$:/config/Navigation/UpdateAddressBar</li>
 
+<li>$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/control-panel</li>
+
 <li>$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/encryption</li>
 
 <li>$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/export-page</li>
@@ -169,6 +171,8 @@ Error message and password prompt
 <li>$:/config/Tiddlers/TitleLinks</li>
 
 <li>$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/open-window</li>
+
+<li>$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/permalink</li>
 
 <li>$:/core</li>
 
@@ -200,13 +204,19 @@ Error message and password prompt
 
 <li>$:/state/tab--959111941</li>
 
+<li>$:/state/tab-1623478592</li>
+
 <li>$:/state/tab-1749438307</li>
 
 <li>$:/state/tab-2065006209</li>
 
+<li>$:/state/tab/moresidebar-1850697562</li>
+
 <li>$:/state/tab/sidebar--595412856</li>
 
 <li>$:/state/tabs/controlpanel/toolbars-1345989671</li>
+
+<li>$:/state/tree/$:/config/</li>
 
 <li>$:/status/RequireReloadDueToPluginChange</li>
 
@@ -249,6 +259,9 @@ Error message and password prompt
 <div created="20210910194309831" modified="20210910194309831" title="$:/config/Navigation/UpdateAddressBar">
 <pre>permaview</pre>
 </div>
+<div created="20210910212633491" creator="Dirst Zigbernstein" modified="20210910212633491" modifier="Dirst Zigbernstein" title="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/control-panel">
+<pre>hide</pre>
+</div>
 <div created="20210213004017715" modified="20210213004017715" title="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/encryption">
 <pre>show</pre>
 </div>
@@ -283,6 +296,9 @@ Error message and password prompt
 <pre>yes</pre>
 </div>
 <div created="20210910194420523" modified="20210910194420523" title="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/open-window">
+<pre>show</pre>
+</div>
+<div created="20210910212309597" creator="Dirst Zigbernstein" modified="20210910212309598" modifier="Dirst Zigbernstein" title="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/permalink">
 <pre>show</pre>
 </div>
 <div author="JeremyRuston" core-version="&gt;=5.0.0" dependents="" description="TiddlyWiki5 core" list="readme" name="Core" plugin-priority="0" plugin-type="plugin" title="$:/core" type="application/json" version="5.1.24-prerelease">
@@ -10155,9 +10171,9 @@ Error message and password prompt
     }
 }</pre>
 </div>
-<div created="20210213005604019" modified="20210213005611291" title="$:/DefaultTiddlers">
+<div created="20210213005604019" creator="Dirst Zigbernstein" modified="20210910212456595" modifier="Dirst Zigbernstein" title="$:/DefaultTiddlers">
 <pre>ZeeNotes
-GettingStarted
+
 </pre>
 </div>
 <div created="20210213001003086" modified="20210213001004112" title="$:/GitHub/Branch">
@@ -10193,23 +10209,32 @@ GettingStarted
 <div created="20210910194347389" modified="20210910194501761" title="$:/state/tab--1963855381">
 <pre>$:/themes/tiddlywiki/vanilla/themetweaks</pre>
 </div>
-<div created="20210910195050985" creator="Dirst Zigbernstein" modified="20210910195119135" modifier="Dirst Zigbernstein" title="$:/state/tab--2112689675">
+<div created="20210910195050985" creator="Dirst Zigbernstein" modified="20210910211835105" modifier="Dirst Zigbernstein" title="$:/state/tab--2112689675">
 <pre>$:/core/ui/ControlPanel/Basics</pre>
 </div>
-<div created="20210910195103699" creator="Dirst Zigbernstein" modified="20210910195116010" modifier="Dirst Zigbernstein" title="$:/state/tab--959111941">
-<pre>$:/core/ui/ControlPanel/EditorTypes</pre>
+<div created="20210910195103699" creator="Dirst Zigbernstein" modified="20210910211804232" modifier="Dirst Zigbernstein" title="$:/state/tab--959111941">
+<pre>$:/core/ui/ControlPanel/TiddlerFields</pre>
 </div>
-<div created="20210213000936314" creator="Dirst Zigbernstein" modified="20210910195739878" modifier="Dirst Zigbernstein" title="$:/state/tab-1749438307">
-<pre>$:/core/ui/ControlPanel/Saving</pre>
+<div created="20210910212231336" creator="Dirst Zigbernstein" modified="20210910212352107" modifier="Dirst Zigbernstein" title="$:/state/tab-1623478592">
+<pre>$:/core/ui/TiddlerInfo/Tools</pre>
 </div>
-<div created="20210213000938231" creator="Dirst Zigbernstein" modified="20210910195206732" modifier="Dirst Zigbernstein" title="$:/state/tab-2065006209">
-<pre>$:/core/ui/ControlPanel/Saving/GitHub</pre>
+<div created="20210213000936314" creator="Dirst Zigbernstein" modified="20210910211832230" modifier="Dirst Zigbernstein" title="$:/state/tab-1749438307">
+<pre>$:/core/ui/ControlPanel/Info</pre>
 </div>
-<div created="20210213003613681" creator="Dirst Zigbernstein" modified="20210910202507643" modifier="Dirst Zigbernstein" title="$:/state/tab/sidebar--595412856">
+<div created="20210213000938231" creator="Dirst Zigbernstein" modified="20210910211530998" modifier="Dirst Zigbernstein" title="$:/state/tab-2065006209">
+<pre>$:/core/ui/ControlPanel/Saving/General</pre>
+</div>
+<div created="20210910211940681" creator="Dirst Zigbernstein" modified="20210910212547819" modifier="Dirst Zigbernstein" title="$:/state/tab/moresidebar-1850697562">
+<pre>$:/core/ui/MoreSideBar/Plugins</pre>
+</div>
+<div created="20210213003613681" creator="Dirst Zigbernstein" modified="20210910213053075" modifier="Dirst Zigbernstein" title="$:/state/tab/sidebar--595412856">
 <pre>$:/core/ui/SideBar/Open</pre>
 </div>
 <div created="20210910194436045" modified="20210910194450011" title="$:/state/tabs/controlpanel/toolbars-1345989671">
 <pre>$:/core/ui/ControlPanel/Toolbars/EditToolbar</pre>
+</div>
+<div created="20210910212522327" creator="Dirst Zigbernstein" modified="20210910212528256" modifier="Dirst Zigbernstein" title="$:/state/tree/$:/config/">
+<pre>hide</pre>
 </div>
 <div title="$:/status/RequireReloadDueToPluginChange">
 <pre>no</pre>
@@ -10217,7 +10242,7 @@ GettingStarted
 <div created="20210910194916875" creator="D" modified="20210910194949371" modifier="Dirst Zigbernsteins" title="$:/status/UserName">
 <pre>Dirst Zigbernstein</pre>
 </div>
-<div created="20210910194014921" creator="Dirst Zigbernstein" list="Bi0-Hacking GitHub ZeeNotes" modified="20210910200733320" modifier="Dirst Zigbernstein" title="$:/StoryList">
+<div list="ZeeNotes" title="$:/StoryList">
 <pre></pre>
 </div>
 <div author="JeremyRuston" core-version="&gt;=5.0.0" dependents="$:/themes/tiddlywiki/vanilla" description="Emphasises individual tiddlers" name="Snow White" plugin-priority="0" plugin-type="theme" title="$:/themes/tiddlywiki/snowwhite" type="application/json" version="5.1.24-prerelease">
@@ -10329,7 +10354,7 @@ GettingStarted
     }
 }</pre>
 </div>
-<div created="20210910202915503" creator="Dirst Zigbernstein" modified="20210910211342797" modifier="Dirst Zigbernstein" tags="Journal bi0-hacking" title="Bi0-Hacking">
+<div created="20210910202915503" creator="Dirst Zigbernstein" modified="20210910212150165" modifier="Dirst Zigbernstein" tags="Journal bi0-hacking" title="Bi0-Hacking" type="text/vnd.tiddlywiki">
 <pre>! Bi0 hacking (lite) 
 
 !!! Work Product - in-progress (these are notes, you are free to use but I would reference only until my initial research and update are complete).  
@@ -10595,7 +10620,7 @@ which may manifest as depression, anxiety, sleeplessness, aggression, nervousnes
 <div modified="20210910211302285" modifier="Dirst Zigbernstein" title="Draft of '10th September 2021' by Dirst Zigbernstein">
 <pre></pre>
 </div>
-<div modified="20210910211343021" modifier="Dirst Zigbernstein" title="Draft of 'Bi0-Hacking' by Dirst Zigbernstein">
+<div modified="20210910212122662" modifier="Dirst Zigbernstein" title="Draft of 'Bi0-Hacking' by Dirst Zigbernstein">
 <pre></pre>
 </div>
 <div created="20210910200759800" creator="Dirst Zigbernstein" modified="20210910201044258" modifier="Dirst Zigbernstein" tags="github," title="GitHub">
@@ -10617,7 +10642,7 @@ Would seem that the proper method of working in &quot;ZeeNotes&quot; as intended
 
 I say would indicate as it is not that apparent.  Clicking the normal check mark to save a Tiddler does in fact turn the red check mark off, but the process of saving to GitHub is not complete until you click the primary (normally red) check mark.  Doing so seems to trigger the send and save via API and you will see a brief message in the upper right corner.</pre>
 </div>
-<div created="20210213004502662" modified="20210213005113497" tags="[[start, zeenotes,]]" title="ZeeNotes" type="text/vnd.tiddlywiki">
+<div created="20210213004502662" creator="Dirst Zigbernstein" modified="20210910213148762" modifier="Dirst Zigbernstein" tags="[[start, zeenotes,]]" title="ZeeNotes" type="text/vnd.tiddlywiki">
 <pre>!! ZeeNotes  
 !!! Yep, absolutely and positively the most somewhat geekish, academic, egghead method, derived from too much time burning brain cells over building the next best mouse-trap!  </pre>
 </div>
