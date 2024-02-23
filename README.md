@@ -1,6 +1,6 @@
 # README #
 
-My development (and some personal) notes. Feel free to use them.  
+A non-linear personal web notebook for Critical Cowinati Thinking.
 
 Bi0-hacking based in-part on:  
 @oschrenk
